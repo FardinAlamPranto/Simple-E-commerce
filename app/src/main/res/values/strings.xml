@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Sage Restaurant</string>
+    <string name="not_registered">Do Not Have Account?\nPlease SignUp</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="_4_5">4.5</string>
+    <string name="elijah_o_donnell">Elijah O\'Donnell</string>
+    <string name="award_text">2018 Edison Best New Product Awards ™ Winners ... Learn more about nominating your innovation for an Edison Award: ..... user experience harder and slower.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="_fragment_content">"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."</string>
+    <string name="ratings">Ratings</string>
+    <string name="_detail_dummy">Curabitur bibendum quam eu tristique faucibus.
+Donec viverra nulla scelerisque nibh pretium, vitae ullamcorper neque iaculis.
+Mauris laoreet libero eu mollis fermentum.
+Nam tempor nulla laoreet, varius sapien et, fringilla odio.
+Integer hendrerit erat eget sapien ornare, eget pretium mi fermentum.
+Donec porttitor tortor sit amet turpis ullamcorper, ac consequat enim ornare.</string>
+    <string name="recommended">Recommended</string>
+    <string name="vegetarian_food">Vegetarian Food</string>
+    <string name="chinies_food">Chinies Food</string>
+    <string name="thai_food">Thai Food</string>
+</resources>
